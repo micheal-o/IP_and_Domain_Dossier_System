@@ -1,8 +1,4 @@
-//
-//  Client.c
-//  IP-Domain-Dossier
-//  ENTS 689N - Project Fall 2016
-//  Team Members: Micheal Okutubo, Chinmay Nagesh Kumar
+//Client application that sends requests to the server.
 
 #include <stdio.h>      /* for printf() and fprintf() */
 #include <sys/socket.h> /* for socket(), connect(), send(), and recv() */
